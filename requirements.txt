@@ -1,5 +1,4 @@
 langchain_experimental==0.3.4
 langchain_groq==0.3.8
 pandas==2.3.3
-streamlit==1.27.2
 streamlit==1.50.0
